@@ -344,23 +344,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\saxiro\\.nuget\\packages\\": {},
+    "C:\\Users\\Fabrício\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF.csproj",
+      "projectUniqueName": "C:\\projetos\\cursoxamarin\\cursoxamarin\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF.csproj",
       "projectName": "App02_TipoPaginaXF",
-      "projectPath": "C:\\projetos\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF.csproj",
-      "packagesPath": "C:\\Users\\saxiro\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\obj\\",
+      "projectPath": "C:\\projetos\\cursoxamarin\\cursoxamarin\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF.csproj",
+      "packagesPath": "C:\\Users\\Fabrício\\.nuget\\packages\\",
+      "outputPath": "C:\\projetos\\cursoxamarin\\cursoxamarin\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\saxiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fabrício\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
