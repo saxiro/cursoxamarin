@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\projetos\cursoxamarin\Secao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-11-21T11:20:07.831</Modified>
+      <Modified>2018-11-21T12:19:40.714</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF.UWP\bin\x86\Debug\App01_LayoutXF.UWP.exe">
       <PackagePath>entrypoint\App01_LayoutXF.UWP.exe</PackagePath>
-      <Modified>2018-11-21T11:20:06.715</Modified>
+      <Modified>2018-11-21T12:19:39.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabrício\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -712,7 +712,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\bin\Debug\netstandard2.0\App01_LayoutXF.dll">
       <PackagePath>App01_LayoutXF.dll</PackagePath>
-      <Modified>2018-11-21T11:20:02.238</Modified>
+      <Modified>2018-11-21T12:18:35.186</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
@@ -859,11 +859,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-11-21T11:20:06.573</Modified>
+      <Modified>2018-11-21T12:19:39.449</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-11-21T11:20:06.574</Modified>
+      <Modified>2018-11-21T12:19:39.449</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -879,7 +879,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF.UWP\bin\x86\Debug\Core\App01_LayoutXF.UWP.exe">
       <PackagePath>App01_LayoutXF.UWP.exe</PackagePath>
-      <Modified>2018-11-21T11:20:07.827</Modified>
+      <Modified>2018-11-21T12:19:40.708</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

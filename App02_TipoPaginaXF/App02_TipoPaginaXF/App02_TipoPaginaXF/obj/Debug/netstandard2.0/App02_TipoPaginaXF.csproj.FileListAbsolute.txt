@@ -41,7 +41,6 @@ C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\
 C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\bin\Debug\netstandard2.0\App02_TipoPaginaXF.deps.json
 C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\bin\Debug\netstandard2.0\App02_TipoPaginaXF.dll
 C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\bin\Debug\netstandard2.0\App02_TipoPaginaXF.pdb
-C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\App02_TipoPaginaXF.csprojAssemblyReference.cache
 C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\TipoPagina\Carousel\IntroducaoApp.xaml.g.cs
