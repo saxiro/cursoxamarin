@@ -7501,11 +7501,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\cursoxamarin\\cursoxamarin\\App02_TipoPaginaXF\\App02_TipoPaginaXF.UWP\\App02_TipoPaginaXF.UWP.csproj",
+      "projectUniqueName": "C:\\projetos\\cursoxamarin\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF.UWP\\App02_TipoPaginaXF.UWP.csproj",
       "projectName": "App02_TipoPaginaXF.UWP",
-      "projectPath": "C:\\projetos\\cursoxamarin\\cursoxamarin\\App02_TipoPaginaXF\\App02_TipoPaginaXF.UWP\\App02_TipoPaginaXF.UWP.csproj",
+      "projectPath": "C:\\projetos\\cursoxamarin\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF.UWP\\App02_TipoPaginaXF.UWP.csproj",
       "packagesPath": "C:\\Users\\Fabrício\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\cursoxamarin\\cursoxamarin\\App02_TipoPaginaXF\\App02_TipoPaginaXF.UWP\\obj\\",
+      "outputPath": "C:\\projetos\\cursoxamarin\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7525,8 +7525,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\projetos\\cursoxamarin\\cursoxamarin\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF.csproj": {
-              "projectPath": "C:\\projetos\\cursoxamarin\\cursoxamarin\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF.csproj"
+            "C:\\projetos\\cursoxamarin\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF.csproj": {
+              "projectPath": "C:\\projetos\\cursoxamarin\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF.csproj"
             }
           }
         }

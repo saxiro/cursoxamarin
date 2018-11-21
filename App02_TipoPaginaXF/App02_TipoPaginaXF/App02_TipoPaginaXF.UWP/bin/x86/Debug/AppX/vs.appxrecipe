@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=288fcfa7-9906-46d5-abc3-27144ac9821f</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,26 +18,25 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>FBE3D5F49904ADF8FFD7A7D8C3688C10D84EC3FAA0F70E17B03206A1CA4F189A</RegisteredManifestChecksum>
+    <LayoutDir>C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>9A44AB0E551938411F0032DE06C29E8887CDBB04AD4FBE41D552F8D4E2E456A5</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>f9fb3dc8-0848-4e63-9a35-161c05900fd6_1.0.0.0_x86__8aw7x1q6a121a</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>f9fb3dc8-0848-4e63-9a35-161c05900fd6_8aw7x1q6a121a!App</RegisteredUserModeAppID>
     <RegisteredPackageID>f9fb3dc8-0848-4e63-9a35-161c05900fd6</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=288fcfa7-9906-46d5-abc3-27144ac9821f</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
-    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-11-20T17:48:19.030</Modified>
+      <Modified>2018-11-21T10:01:59.498</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\App02_TipoPaginaXF.UWP.exe">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\App02_TipoPaginaXF.UWP.exe">
       <PackagePath>entrypoint\App02_TipoPaginaXF.UWP.exe</PackagePath>
-      <Modified>2018-11-20T17:48:16.729</Modified>
+      <Modified>2018-11-21T10:01:56.295</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabrício\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -711,172 +710,172 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2018-07-26T22:16:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\bin\Debug\netstandard2.0\App02_TipoPaginaXF.dll">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\bin\Debug\netstandard2.0\App02_TipoPaginaXF.dll">
       <PackagePath>App02_TipoPaginaXF.dll</PackagePath>
-      <Modified>2018-11-20T17:48:12.421</Modified>
+      <Modified>2018-11-21T10:01:50.902</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-20T12:16:08.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\logo.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\logo.png">
       <PackagePath>logo.png</PackagePath>
       <Modified>2018-11-20T12:16:09.535</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\page.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\page.png">
       <PackagePath>page.png</PackagePath>
       <Modified>2018-11-20T12:16:09.644</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\play.png">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\play.png">
       <PackagePath>play.png</PackagePath>
       <Modified>2018-11-20T12:16:09.644</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-11-20T12:16:08.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\App02_TipoPaginaXF.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\App02_TipoPaginaXF.UWP.xr.xml">
       <PackagePath>App02_TipoPaginaXF.UWP.xr.xml</PackagePath>
       <Modified>2018-11-20T12:16:09.552</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-11-20T17:48:16.589</Modified>
+      <Modified>2018-11-21T10:01:55.845</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-11-20T17:48:16.590</Modified>
+      <Modified>2018-11-21T10:01:55.846</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -930,67 +929,75 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2018-07-26T22:16:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-11-20T17:48:18.170</Modified>
+      <Modified>2018-11-21T10:01:58.269</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\projetos\cursoxamarin\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\Core\App02_TipoPaginaXF.UWP.exe">
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\bin\x86\Debug\Core\App02_TipoPaginaXF.UWP.exe">
       <PackagePath>App02_TipoPaginaXF.UWP.exe</PackagePath>
-      <Modified>2018-11-20T17:48:19.025</Modified>
+      <Modified>2018-11-21T10:01:59.492</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.1.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx">
+    <ResolvedSDKReference Include="C:\Users\Fabrício\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.1.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx">
       <Name>Microsoft.NET.CoreRuntime.2.1</Name>
       <Version>2.1.26124.5</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.1, MinVersion = 2.1.26124.5, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.1.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx</AppxLocation>
+      <AppxLocation>C:\Users\Fabrício\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.1.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.1.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx">
+    <ResolvedSDKReference Include="C:\Users\Fabrício\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.1.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx">
       <Name>Microsoft.NET.CoreRuntime.2.1</Name>
       <Version>2.1.26124.5</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.1, MinVersion = 2.1.26124.5, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.1.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx</AppxLocation>
+      <AppxLocation>C:\Users\Fabrício\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.1.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.1.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx">
+    <ResolvedSDKReference Include="C:\Users\Fabrício\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.1.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx">
       <Name>Microsoft.NET.CoreRuntime.2.1</Name>
       <Version>2.1.26124.5</Version>
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.1, MinVersion = 2.1.26124.5, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.1.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx</AppxLocation>
+      <AppxLocation>C:\Users\Fabrício\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.1.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
