@@ -643,8 +643,14 @@
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\Fundo.png">
+      <PackagePath>Fundo.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\logo.png">
       <PackagePath>logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\Perfil.png">
+      <PackagePath>Perfil.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>

@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>7382DA74EE55BD331492122C14F9BB91F9631FCB91A832134C116C2359B982AE</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>8E6BBCD946D565533D70990CA47C5ECF78CFA15ABCB592CE07810A4A49D07B77</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>5d7444c6-fd43-4c6e-bb8d-afe4e6954746_1.0.0.0_x86__gbcywkqcsapmp</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>5d7444c6-fd43-4c6e-bb8d-afe4e6954746_gbcywkqcsapmp!App</RegisteredUserModeAppID>
     <RegisteredPackageID>5d7444c6-fd43-4c6e-bb8d-afe4e6954746</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-11-22T15:38:23.925</Modified>
+      <Modified>2018-11-23T18:04:21.152</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\bin\x86\Debug\App02_Xamarin.UWP.exe">
       <PackagePath>entrypoint\App02_Xamarin.UWP.exe</PackagePath>
-      <Modified>2018-11-22T15:38:23.048</Modified>
+      <Modified>2018-11-23T18:04:20.102</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabrício\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -712,7 +712,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\bin\Debug\netstandard2.0\App02_Xamarin.dll">
       <PackagePath>App02_Xamarin.dll</PackagePath>
-      <Modified>2018-11-22T15:38:18.750</Modified>
+      <Modified>2018-11-23T18:04:15.759</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
@@ -849,9 +849,17 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-21T17:06:32.899</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\Fundo.png">
+      <PackagePath>Fundo.png</PackagePath>
+      <Modified>2018-11-23T17:52:41.044</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\logo.png">
       <PackagePath>logo.png</PackagePath>
       <Modified>2018-11-22T12:43:22.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\Perfil.png">
+      <PackagePath>Perfil.png</PackagePath>
+      <Modified>2018-11-23T17:52:41.047</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -863,11 +871,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-11-22T15:38:22.908</Modified>
+      <Modified>2018-11-23T18:04:19.959</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-11-22T15:38:22.909</Modified>
+      <Modified>2018-11-23T18:04:19.959</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -879,11 +887,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2018-11-22T15:37:44.283</Modified>
+      <Modified>2018-11-23T18:01:18.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao07\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\bin\x86\Debug\Core\App02_Xamarin.UWP.exe">
       <PackagePath>App02_Xamarin.UWP.exe</PackagePath>
-      <Modified>2018-11-22T15:38:23.921</Modified>
+      <Modified>2018-11-23T18:04:21.148</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
