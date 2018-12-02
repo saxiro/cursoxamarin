@@ -646,6 +646,21 @@
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\push_botao.png">
       <PackagePath>push_botao.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\Imagem\usb.scale-100.jpg">
+      <PackagePath>Imagem\usb.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\Imagem\usb.scale-125.jpg">
+      <PackagePath>Imagem\usb.scale-125.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\Imagem\usb.scale-150.jpg">
+      <PackagePath>Imagem\usb.scale-150.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\Imagem\usb.scale-200.jpg">
+      <PackagePath>Imagem\usb.scale-200.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\Imagem\usb.scale-400.jpg">
+      <PackagePath>Imagem\usb.scale-400.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>

@@ -60,6 +60,23 @@ namespace App01_ControleXF.Menu
         {
             Detail = new SliderStepperPage();
         }
+        private void GoSwitchPage(object sender, EventArgs args)
+        {
+            Detail = new SwitchPage();
+        }
+        private void GoImagePage(object sender, EventArgs args)
+        {
+            Detail = new ImagePage();
+        }
+        private void GoListViewPage(object sender, EventArgs args)
+        {
+            Detail = new ListViewPage();
+        }
+        private void GoTableViewPage(object sender, EventArgs args)
+        {
+            Detail = new TableViewPage();
+        }
         
+
     }
 }

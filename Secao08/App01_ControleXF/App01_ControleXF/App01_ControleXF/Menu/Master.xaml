@@ -17,6 +17,10 @@
                 <Button Text="Picker" Clicked="GoPickerPage" />
                 <Button Text="SearchBar" Clicked="GoSearchBarPage" />
                 <Button Text="SliderStepper" Clicked="GoSliderStepperPage" />
+                <Button Text="SwitchPage" Clicked="GoSwitchPage" />
+                <Button Text="ImagePage" Clicked="GoImagePage" />
+                <Button Text="ListViewPage" Clicked="GoListViewPage" />
+                <Button Text="TableViewPage" Clicked="GoTableViewPage" />
             </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>
