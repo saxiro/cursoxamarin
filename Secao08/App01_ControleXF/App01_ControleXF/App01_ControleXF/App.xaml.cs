@@ -1,6 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using App01_ControleXF.Menu;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace App01_ControleXF
@@ -12,7 +13,7 @@ namespace App01_ControleXF
             InitializeComponent();
 
             //MainPage = new MainPage();
-            MainPage = new App01_ControleXF.Menu.Master();
+            MainPage = new Master();
         }
 
         protected override void OnStart()

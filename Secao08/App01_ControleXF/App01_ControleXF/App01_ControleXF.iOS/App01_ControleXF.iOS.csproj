@@ -160,4 +160,13 @@
   <ItemGroup>
     <BundleResource Include="Resources\push_botao.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\usb%401x.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\usb%402x.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\usb%403x.jpg" />
+  </ItemGroup>
 </Project>

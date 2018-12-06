@@ -12,6 +12,15 @@
                 <Button Text="Label Page" Clicked="GoLabelPage" />
                 <Button Text="Button Page" Clicked="GoButtonPage" />
                 <Button Text="Entry/Editor" Clicked="GoEntryEditorPage" />
+                <Button Text="DatePicker" Clicked="GoDatePickerPage" />
+                <Button Text="TimePicker" Clicked="GoTimePickerPage" />
+                <Button Text="Picker" Clicked="GoPickerPage" />
+                <Button Text="SearchBar" Clicked="GoSearchBarPage" />
+                <Button Text="SliderStepper" Clicked="GoSliderStepperPage" />
+                <Button Text="SwitchPage" Clicked="GoSwitchPage" />
+                <Button Text="ImagePage" Clicked="GoImagePage" />
+                <Button Text="ListViewPage" Clicked="GoListViewPage" />
+                <Button Text="TableViewPage" Clicked="GoTableViewPage" />
             </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>

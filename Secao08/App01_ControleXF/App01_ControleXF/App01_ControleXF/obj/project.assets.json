@@ -47,11 +47,10 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
@@ -345,7 +344,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fabrício\\.nuget\\packages\\": {},
+    "C:\\Users\\saxiro\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -354,14 +353,14 @@
       "projectUniqueName": "C:\\projetos\\cursoxamarin\\Secao08\\App01_ControleXF\\App01_ControleXF\\App01_ControleXF\\App01_ControleXF.csproj",
       "projectName": "App01_ControleXF",
       "projectPath": "C:\\projetos\\cursoxamarin\\Secao08\\App01_ControleXF\\App01_ControleXF\\App01_ControleXF\\App01_ControleXF.csproj",
-      "packagesPath": "C:\\Users\\Fabrício\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\saxiro\\.nuget\\packages\\",
       "outputPath": "C:\\projetos\\cursoxamarin\\Secao08\\App01_ControleXF\\App01_ControleXF\\App01_ControleXF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Fabrício\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\saxiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
