@@ -1,0 +1,3 @@
+C:\projetos\cursoxamarin\Secao11\App1_Vagas\App1_Vagas\App1_Vagas.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\projetos\cursoxamarin\Secao11\App1_Vagas\App1_Vagas\App1_Vagas.Android\obj\Debug\81\App1_Vagas.Android.nuget.stamp
+C:\projetos\cursoxamarin\Secao11\App1_Vagas\App1_Vagas\App1_Vagas.Android\obj\Debug\81\App1_Vagas.Android.csprojAssemblyReference.cache

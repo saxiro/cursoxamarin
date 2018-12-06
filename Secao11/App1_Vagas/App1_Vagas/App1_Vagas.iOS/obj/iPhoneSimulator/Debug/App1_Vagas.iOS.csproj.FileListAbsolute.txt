@@ -1,0 +1,8 @@
+C:\projetos\cursoxamarin\Secao11\App1_Vagas\App1_Vagas\App1_Vagas.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\projetos\cursoxamarin\Secao11\App1_Vagas\App1_Vagas\App1_Vagas.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\projetos\cursoxamarin\Secao11\App1_Vagas\App1_Vagas\App1_Vagas.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\projetos\cursoxamarin\Secao11\App1_Vagas\App1_Vagas\App1_Vagas.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\projetos\cursoxamarin\Secao11\App1_Vagas\App1_Vagas\App1_Vagas.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\projetos\cursoxamarin\Secao11\App1_Vagas\App1_Vagas\App1_Vagas.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\projetos\cursoxamarin\Secao11\App1_Vagas\App1_Vagas\App1_Vagas.iOS\obj\iPhoneSimulator\Debug\App1_Vagas.iOS.csprojAssemblyReference.cache
+C:\projetos\cursoxamarin\Secao11\App1_Vagas\App1_Vagas\App1_Vagas.iOS\obj\iPhoneSimulator\Debug\App1_Vagas.iOS.csproj.CoreCompileInputs.cache
