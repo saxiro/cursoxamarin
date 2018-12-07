@@ -1,0 +1,7 @@
+C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\bin\Debug\netstandard2.0\App1Vagas.deps.json
+C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\bin\Debug\netstandard2.0\App1Vagas.dll
+C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\App1Vagas.csproj.CoreCompileInputs.cache
+C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\App1Vagas.AssemblyInfoInputs.cache
+C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\App1Vagas.AssemblyInfo.cs
