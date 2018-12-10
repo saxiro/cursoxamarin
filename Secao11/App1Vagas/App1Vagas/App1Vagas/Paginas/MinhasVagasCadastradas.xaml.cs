@@ -16,5 +16,21 @@ namespace App1Vagas.Paginas
         {
             InitializeComponent();
         }
+        public void GoCadastro(object sender, EventArgs args)
+        {
+
+        }
+        public void GoMinhasVagas(object sender, EventArgs args)
+        {
+
+        }
+        public void EditarAction(object sender, EventArgs args)
+        {
+
+        }
+        public void ExcluirAction(object sender, EventArgs args)
+        {
+
+        }
     }
 }
