@@ -16,5 +16,17 @@ namespace App1Vagas.Paginas
         {
             InitializeComponent();
         }
+        public void GoCadastro(object sender, EventArgs args)
+        {
+            Navigation.PushAsync(new CadastroVagas());
+        }
+        public void GoMinhasVagas(object sender, EventArgs args)
+        {
+            Navigation.PushAsync(new MinhasVagasCadastradas());
+        }
+        public void MaisDetalheAction(object sender, EventArgs args)
+        {
+            Navigation.PushAsync(new DetalhesVagas());
+        }
     }
 }
