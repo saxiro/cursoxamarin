@@ -1,0 +1,1 @@
+C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas.UWP\App1Vagas.UWP.csproj;x86

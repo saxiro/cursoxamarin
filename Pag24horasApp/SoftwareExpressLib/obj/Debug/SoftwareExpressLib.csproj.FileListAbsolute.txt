@@ -1,0 +1,17 @@
+C:\projetos\Pag24horasApp\SoftwareExpressLib\bin\Debug\Jars\libs\clisitef-android.jar
+C:\projetos\Pag24horasApp\SoftwareExpressLib\bin\Debug\SoftwareExpressLib.xml
+C:\projetos\Pag24horasApp\SoftwareExpressLib\bin\Debug\SoftwareExpressLib.dll
+C:\projetos\Pag24horasApp\SoftwareExpressLib\bin\Debug\SoftwareExpressLib.pdb
+C:\projetos\Pag24horasApp\SoftwareExpressLib\bin\Debug\Mono.Android.dll
+C:\projetos\Pag24horasApp\SoftwareExpressLib\bin\Debug\SQLite-net.dll
+C:\projetos\Pag24horasApp\SoftwareExpressLib\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\projetos\Pag24horasApp\SoftwareExpressLib\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\projetos\Pag24horasApp\SoftwareExpressLib\bin\Debug\SQLitePCLRaw.core.dll
+C:\projetos\Pag24horasApp\SoftwareExpressLib\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\projetos\Pag24horasApp\SoftwareExpressLib\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\projetos\Pag24horasApp\SoftwareExpressLib\bin\Debug\SQLite-net.xml
+C:\projetos\Pag24horasApp\SoftwareExpressLib\obj\Debug\SoftwareExpressLib.csproj.CoreCompileInputs.cache
+C:\projetos\Pag24horasApp\SoftwareExpressLib\obj\Debug\SoftwareExpressLib.csproj.CopyComplete
+C:\projetos\Pag24horasApp\SoftwareExpressLib\obj\Debug\SoftwareExpressLib.dll
+C:\projetos\Pag24horasApp\SoftwareExpressLib\obj\Debug\SoftwareExpressLib.pdb
+C:\projetos\Pag24horasApp\SoftwareExpressLib\obj\Debug\SoftwareExpressLib.csprojAssemblyReference.cache

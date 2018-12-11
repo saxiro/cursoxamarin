@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Pag24horasXamarin.Views.DadosComunicacaoPage"
+             xmlns:local="clr-namespace:Pag24horasXamarin.Models"
+             Title="Dados Comunicação">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Margin="10">
+                <Label Text="Configuração da Biblieteca"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            </StackLayout>
+            <StackLayout>
+                <Entry x:Name="IPSiTef" Placeholder="IPSiTef" Keyboard="Numeric" />
+                <Entry x:Name="IdLoja" Placeholder="IdLoja" Keyboard="Numeric" />
+                <Entry x:Name="IdTerminal" Placeholder="IdTerminal" Keyboard="Numeric" />
+                <Entry x:Name="Reservado" Placeholder="Reservado" />
+            </StackLayout>
+            <StackLayout>
+                <Button x:Name="Enviar" Text="Enviar" VerticalOptions="EndAndExpand" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

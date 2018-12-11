@@ -3,9 +3,6 @@ C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\bin\Debug\netstan
 C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\App1Vagas.csprojAssemblyReference.cache
 C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\Paginas\CadastroVagas.xaml.g.cs
-C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\Paginas\ConsultaVagas.xaml.g.cs
-C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\Paginas\DetalhesVagas.xaml.g.cs
 C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\Paginas\MinhasVagasCadastradas.xaml.g.cs
 C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\App1Vagas.csproj.CoreCompileInputs.cache
 C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\App1Vagas.AssemblyInfoInputs.cache
@@ -14,3 +11,7 @@ C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\bin\Debug\netstan
 C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\XamlC.stamp
 C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\App1Vagas.dll
 C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\App1Vagas.pdb
+C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\Paginas\EditarVaga.xaml.g.cs
+C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\Paginas\CadastrarVaga.xaml.g.cs
+C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\Paginas\ConsultarVagas.xaml.g.cs
+C:\projetos\cursoxamarin\Secao11\App1Vagas\App1Vagas\App1Vagas\obj\Debug\netstandard2.0\Paginas\DetalharVaga.xaml.g.cs

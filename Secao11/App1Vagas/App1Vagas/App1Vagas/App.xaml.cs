@@ -12,7 +12,7 @@ namespace App1Vagas
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage( new ConsultaVagas() );
+            MainPage = new NavigationPage( new ConsultarVagas() );
         }
 
         protected override void OnStart()

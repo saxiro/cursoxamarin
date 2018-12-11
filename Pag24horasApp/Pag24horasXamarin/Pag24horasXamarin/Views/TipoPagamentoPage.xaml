@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Pag24horasXamarin.Views.TipoPagamentoPage">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+            <!-- Place new controls here -->
+            <Label Text="Valor digitado:"                   
+                   HorizontalOptions="CenterAndExpand" />
+            <Label Text="" 
+                   x:Name="Valor"                   
+                   HorizontalOptions="CenterAndExpand" />
+            <Label Text="Tipos de pagamento:"
+                   HorizontalOptions="CenterAndExpand" />
+            <Button Text="Cartão Crédito" x:Name="Credito" Clicked="OnOptionSelected"/>
+            <Button Text="Cartão Débito" x:Name="Debito" Clicked="OnOptionSelected"/>
+            <Button Text="Voucher" x:Name="Beneficio" Clicked="OnOptionSelected"/>
+            <Button Text="Pagamento Genérico" x:Name="Generico" Clicked="OnOptionSelected"/>
+            <Button Text="Crédito Centralizado" x:Name="CreditoCentralizado" Clicked="OnOptionSelected"/>
+            <Button Text="Cartao Combustível" x:Name="Combustivel" Clicked="OnOptionSelected"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
