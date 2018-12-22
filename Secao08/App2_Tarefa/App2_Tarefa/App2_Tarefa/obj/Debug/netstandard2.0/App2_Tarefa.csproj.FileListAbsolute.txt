@@ -1,0 +1,13 @@
+C:\projetos\cursoxamarin\Secao08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\App2_Tarefa.csprojAssemblyReference.cache
+C:\projetos\cursoxamarin\Secao08\App2_Tarefa\App2_Tarefa\App2_Tarefa\bin\Debug\netstandard2.0\App2_Tarefa.deps.json
+C:\projetos\cursoxamarin\Secao08\App2_Tarefa\App2_Tarefa\App2_Tarefa\bin\Debug\netstandard2.0\App2_Tarefa.dll
+C:\projetos\cursoxamarin\Secao08\App2_Tarefa\App2_Tarefa\App2_Tarefa\bin\Debug\netstandard2.0\App2_Tarefa.pdb
+C:\projetos\cursoxamarin\Secao08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\projetos\cursoxamarin\Secao08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\Telas\Cadastro.xaml.g.cs
+C:\projetos\cursoxamarin\Secao08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\Telas\Inicio.xaml.g.cs
+C:\projetos\cursoxamarin\Secao08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\App2_Tarefa.csproj.CoreCompileInputs.cache
+C:\projetos\cursoxamarin\Secao08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\App2_Tarefa.AssemblyInfoInputs.cache
+C:\projetos\cursoxamarin\Secao08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\App2_Tarefa.AssemblyInfo.cs
+C:\projetos\cursoxamarin\Secao08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\XamlC.stamp
+C:\projetos\cursoxamarin\Secao08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\App2_Tarefa.dll
+C:\projetos\cursoxamarin\Secao08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\App2_Tarefa.pdb

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2_Tarefa.Telas.Inicio">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout BackgroundColor="Blue" HeightRequest="250">
+                <Label Text="Meu Dia" TextColor="White" FontSize="24" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+                <Label Text="Quinta, 22/02" HorizontalOptions="Start" VerticalOptions="End" TextColor="White" />
+            </StackLayout>
+            <StackLayout x:Name="SLTarefas" Padding="10" Orientation="Horizontal" Spacing="15">
+                <Image VerticalOptions="Center" />
+                <Label VerticalOptions="Center" HorizontalOptions="FillAndExpand" Text="Task 1" />
+                <Image VerticalOptions="Center" />
+                <Image VerticalOptions="Center" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Padding="10" Spacing="15">
+                <Image VerticalOptions="Center" />
+                <StackLayout HorizontalOptions="FillAndExpand">
+                    <Label VerticalOptions="Center" Text="Task 1" TextColor="LightGray" />
+                    <Label VerticalOptions="Center" Text="Finalizado em 20/01/2018 - 17:00" TextColor="LightGray" FontSize="8" />
+                </StackLayout>
+                <Image VerticalOptions="Center" />
+                <Image VerticalOptions="Center" />
+            </StackLayout>
+            <Button Text="Adicionar" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

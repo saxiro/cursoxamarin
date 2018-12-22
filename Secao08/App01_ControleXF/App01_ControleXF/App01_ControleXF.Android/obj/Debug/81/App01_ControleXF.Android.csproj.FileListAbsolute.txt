@@ -31,6 +31,13 @@ C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_Control
 C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
 C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
 C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\81\res\drawable\push_botao.png
+C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\81\res\drawable-xxxhdpi\usb.jpg
+C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\81\res\drawable-hdpi\usb.jpg
+C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\81\res\drawable-ldpi\usb.jpg
+C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\81\res\drawable-mdpi\usb.jpg
+C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\81\res\drawable-xhdpi\usb.jpg
+C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\81\res\drawable-xxhdpi\usb.jpg
 C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\81\R.cs.flag
 C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\81\R.txt
 C:\projetos\cursoxamarin\Secao08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\81\uploadflags.txt
