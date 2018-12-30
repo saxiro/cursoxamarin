@@ -5,25 +5,28 @@
     <ContentPage.Content>
         <StackLayout>
             <StackLayout BackgroundColor="Blue" HeightRequest="250">
-                <Label Text="Meu Dia" TextColor="White" FontSize="24" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
-                <Label Text="Quinta, 22/02" HorizontalOptions="Start" VerticalOptions="End" TextColor="White" />
+                <Label Text="Meu Dia" FontSize="24" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" TextColor="White"/>
+                <Label Text="Quinta, 22/02" HorizontalOptions="Start" VerticalOptions="End"  TextColor="White"/>
             </StackLayout>
-            <StackLayout x:Name="SLTarefas" Padding="10" Orientation="Horizontal" Spacing="15">
-                <Image VerticalOptions="Center" />
-                <Label VerticalOptions="Center" HorizontalOptions="FillAndExpand" Text="Task 1" />
-                <Image VerticalOptions="Center" />
-                <Image VerticalOptions="Center" />
-            </StackLayout>
-            <StackLayout Orientation="Horizontal" Padding="10" Spacing="15">
-                <Image VerticalOptions="Center" />
-                <StackLayout HorizontalOptions="FillAndExpand">
-                    <Label VerticalOptions="Center" Text="Task 1" TextColor="LightGray" />
-                    <Label VerticalOptions="Center" Text="Finalizado em 20/01/2018 - 17:00" TextColor="LightGray" FontSize="8" />
+            <StackLayout x:Name="SLTarefas" Padding="10" Spacing="10">
+                <StackLayout Orientation="Horizontal" Spacing="15">
+                    <Image VerticalOptions="Center"/>
+                    <Label VerticalOptions="Center" HorizontalOptions="FillAndExpand" Text="Task 1"/>
+                    <Image VerticalOptions="Center" />
+                    <Image VerticalOptions="Center" />
                 </StackLayout>
-                <Image VerticalOptions="Center" />
-                <Image VerticalOptions="Center" />
+                <StackLayout VerticalOptions="Center" Orientation="Horizontal" Spacing="15">
+                    <Image VerticalOptions="Center" />
+                    <StackLayout Spacing="0" HorizontalOptions="FillAndExpand" Orientation="Vertical">
+                        <Label Text="Task 1" TextColor="Gray"/>
+                        <Label Text="Finalizado em 20/01/2018 - 17:00" TextColor="Gray" FontSize="10"/>
+                    </StackLayout>
+                    <Image VerticalOptions="Center" />
+                    <Image VerticalOptions="Center" />
+                </StackLayout>
             </StackLayout>
-            <Button Text="Adicionar" HorizontalOptions="Center" />
+
+            <Button Text="Adicionar" HorizontalOptions="Center" Clicked="ActionGoCadastro" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

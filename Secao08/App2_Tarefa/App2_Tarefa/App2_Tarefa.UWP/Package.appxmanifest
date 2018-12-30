@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="fcc3a2fb-bce1-48a5-a329-6db49e24def3"
-    Publisher="CN=32bf3115-6863-433b-a34b-aa2ebf73e783"
+    Name="89d19e6b-6df9-48b0-ad77-659d215f833c"
+    Publisher="CN=9d743088-e528-49ff-adac-608b5d67d893"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="ec0cc741-fd3e-485c-81be-68815c480690" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>App2_Tarefa.UWP</DisplayName>
-    <PublisherDisplayName>32bf3115-6863-433b-a34b-aa2ebf73e783</PublisherDisplayName>
+    <PublisherDisplayName>9d743088-e528-49ff-adac-608b5d67d893</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 

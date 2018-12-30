@@ -106,7 +106,6 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "App2_Tarefa.Android.dll" comes first in this list. */
-		"App2_Tarefa.Android.dll",
 		"App2_Tarefa.dll",
 		"FormsViewGroup.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",

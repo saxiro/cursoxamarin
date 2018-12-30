@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{67615DA6-A46D-4276-B005-0C498EB6B333}</ProjectGuid>
+    <ProjectGuid>{6A3D4DB6-9F0A-4160-9506-6387B6A4436A}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>App2_Tarefa.UWP</RootNamespace>
@@ -131,6 +131,14 @@
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
     <Content Include="Assets\Wide310x150Logo.scale-400.png" />
     <Content Include="Properties\Default.rd.xml" />
+    <Content Include="Resources\1.png" />
+    <Content Include="Resources\2.png" />
+    <Content Include="Resources\3.png" />
+    <Content Include="Resources\4.png" />
+    <Content Include="Resources\AddBotao.png" />
+    <Content Include="Resources\CheckOff.png" />
+    <Content Include="Resources\CheckOn.png" />
+    <Content Include="Resources\Delete.png" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
@@ -144,11 +152,11 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.4.0.1008975" />
-    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.1.5"/>
+    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.1.5" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\App2_Tarefa\App2_Tarefa.csproj">
-      <Project>{07111261-FC05-401B-8DBD-2B39FF0C91DB}</Project>
+      <Project>{A718B255-19FE-4DFF-AA8F-B1D658BE3205}</Project>
       <Name>App2_Tarefa</Name>
     </ProjectReference>
   </ItemGroup>
