@@ -1,0 +1,1 @@
+C:\projetos\cursoxamarin\Secao13\App1_NossoChat\App1_NossoChat\App1_NossoChat.UWP\App1_NossoChat.UWP.csproj;x86

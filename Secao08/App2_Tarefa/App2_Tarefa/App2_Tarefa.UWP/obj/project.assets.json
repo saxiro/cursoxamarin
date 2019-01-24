@@ -3697,7 +3697,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.0.0": {
-      "sha512": "CCf4NjmDOoise7FAij2VPuHIgKKsu696vkTwhOkPVQfLsTmB2WLFfQ4yeO5Udtk8FD636UBMx6Y9eovzJKT76A==",
+      "sha512": "VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.0.0",
       "files": [
@@ -3714,7 +3714,7 @@
       ]
     },
     "Microsoft.NETCore.UniversalWindowsPlatform/6.1.5": {
-      "sha512": "KYav5Tjs6Mn7GMsqnPXuGyOWagbmJ/LEtCcBNmhuj01/3+fm8BngClWMxNEW3YPMtwQkagxOK6zIkSs1wR+OeQ==",
+      "sha512": "PHHa38S79Z2Z+cPb9Mj2aBN/kmWFMr47tQVAlFqry1PiKrG9GCSYAdbCrJ87SXeq5XJSQReyEkOJ/6XeR5poEA==",
       "type": "package",
       "path": "microsoft.netcore.universalwindowsplatform/6.1.5",
       "files": [
@@ -4131,7 +4131,7 @@
       ]
     },
     "runtime.win10-arm-aot.Microsoft.NETCore.UniversalWindowsPlatform/6.1.5": {
-      "sha512": "EGaxh2FQ+QT/P45T+LILj6jY5wQVMix/MenOymQQO8/6mWNhVlkHrua6mvaaON4MwRbWRJPXNwPiJzLsKoUnEg==",
+      "sha512": "RwXfpVUOOl04ks22Z3Z+Z3JdRqSgxXukVY/SIMlOhRG6JsWZ9GITnbJ55qLKJZh0JgoHuHrP+pGdRIFlOy6JRg==",
       "type": "package",
       "path": "runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform/6.1.5",
       "files": [
@@ -5023,7 +5023,7 @@
       ]
     },
     "runtime.win10-arm.Microsoft.NETCore.UniversalWindowsPlatform/6.1.5": {
-      "sha512": "COdkVTC19mn8FKZio+INajHBk3Br/u4Z/wk9KloetL0nZ0i5izwlG7J9xzZprwZxycat8EQZaFfkm2ar3BF7Tw==",
+      "sha512": "RG0lWQX0D16DgXdEaWwt3to7bW9TP00YdigvUg95ejs/w2RsEkQKkgu5FUCUTSuAXx7QuXIHbi0U3m+Rqgj2hw==",
       "type": "package",
       "path": "runtime.win10-arm.microsoft.netcore.universalwindowsplatform/6.1.5",
       "files": [
@@ -5201,7 +5201,7 @@
       ]
     },
     "runtime.win10-x64-aot.Microsoft.NETCore.UniversalWindowsPlatform/6.1.5": {
-      "sha512": "I2IgT0mxvN5vMJpqFoQJOnjndL8nF4awpY5l6xpSfRwPLT3ACpGl4+DClV7PE3Dxk37W0yRub7Z3taxbyjdsMQ==",
+      "sha512": "h4V52Z/nEIlF83s8VTf67YrmNFF2RxzBQZ4XbwzKzJEFGwGrFMIlppp7AfYEl67YZcRuoqnXe0w7fJt+tC4zLw==",
       "type": "package",
       "path": "runtime.win10-x64-aot.microsoft.netcore.universalwindowsplatform/6.1.5",
       "files": [
@@ -6087,7 +6087,7 @@
       ]
     },
     "runtime.win10-x64.Microsoft.NETCore.UniversalWindowsPlatform/6.1.5": {
-      "sha512": "PmdqgMbiRRMlHP5PWjd/aLIC1MTsl/yu9xFiWPtyAVeRMcqutmCHOaSKJwOLiFsjtHiRWWJ6CkWLedAAw+xInQ==",
+      "sha512": "NQwInWIksANcD8uYnD8IYwqYCTGMfiO94GIYVYYOuHLF/qfulwa3PzdCj1365yZwgqYq55Cq88sT8JgX6hiR2w==",
       "type": "package",
       "path": "runtime.win10-x64.microsoft.netcore.universalwindowsplatform/6.1.5",
       "files": [
@@ -6265,7 +6265,7 @@
       ]
     },
     "runtime.win10-x86-aot.Microsoft.NETCore.UniversalWindowsPlatform/6.1.5": {
-      "sha512": "FjEwLHVGkZoSSRKhOYlmOGmKcbABuZPjpPwRDGBqWX37wY4ns1IQBP8mPXTsEp5TM/DatL4dFDQG6aUHI15H2Q==",
+      "sha512": "7FBuwwLX4Nz2CKjZWsN9NrQ2eeOg9+L2l4cjQDx4kQCDFMQgYgeVh4JQ01YysH6+wSmcK3B1fYq6q5LDdxZfXA==",
       "type": "package",
       "path": "runtime.win10-x86-aot.microsoft.netcore.universalwindowsplatform/6.1.5",
       "files": [
@@ -7151,7 +7151,7 @@
       ]
     },
     "runtime.win10-x86.Microsoft.NETCore.UniversalWindowsPlatform/6.1.5": {
-      "sha512": "ui8vTycbSKccC8qoeqtGOz1UjAl1PAM6sL3KNntAb2PoX6FywiQL9I8JeQ/oYqaUwWFFKemL1Fz8W+Nut2aKIw==",
+      "sha512": "hRlw99Mxrp50kLrSDae+6uj1K/zhX5MBwzeyYJFwcxSylkrQtE5qH16pKIvCiUou6ELFVfAIC7BA9+ylN5E3EQ==",
       "type": "package",
       "path": "runtime.win10-x86.microsoft.netcore.universalwindowsplatform/6.1.5",
       "files": [
@@ -7488,7 +7488,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\saxiro\\.nuget\\packages\\": {},
+    "C:\\Users\\Fabrício\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
@@ -7497,7 +7497,7 @@
       "projectUniqueName": "C:\\projetos\\cursoxamarin\\Secao08\\App2_Tarefa\\App2_Tarefa\\App2_Tarefa.UWP\\App2_Tarefa.UWP.csproj",
       "projectName": "App2_Tarefa.UWP",
       "projectPath": "C:\\projetos\\cursoxamarin\\Secao08\\App2_Tarefa\\App2_Tarefa\\App2_Tarefa.UWP\\App2_Tarefa.UWP.csproj",
-      "packagesPath": "C:\\Users\\saxiro\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Fabrício\\.nuget\\packages\\",
       "outputPath": "C:\\projetos\\cursoxamarin\\Secao08\\App2_Tarefa\\App2_Tarefa\\App2_Tarefa.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
@@ -7505,7 +7505,7 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\saxiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fabrício\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

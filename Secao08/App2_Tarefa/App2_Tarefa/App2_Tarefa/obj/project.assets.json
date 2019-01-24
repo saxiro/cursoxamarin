@@ -47,7 +47,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -343,7 +343,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\saxiro\\.nuget\\packages\\": {},
+    "C:\\Users\\Fabrício\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -352,14 +352,14 @@
       "projectUniqueName": "C:\\projetos\\cursoxamarin\\Secao08\\App2_Tarefa\\App2_Tarefa\\App2_Tarefa\\App2_Tarefa.csproj",
       "projectName": "App2_Tarefa",
       "projectPath": "C:\\projetos\\cursoxamarin\\Secao08\\App2_Tarefa\\App2_Tarefa\\App2_Tarefa\\App2_Tarefa.csproj",
-      "packagesPath": "C:\\Users\\saxiro\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Fabrício\\.nuget\\packages\\",
       "outputPath": "C:\\projetos\\cursoxamarin\\Secao08\\App2_Tarefa\\App2_Tarefa\\App2_Tarefa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\saxiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fabrício\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

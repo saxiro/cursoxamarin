@@ -714,7 +714,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\saxiro\\.nuget\\packages\\": {}
+    "C:\\Users\\Fabrício\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -722,12 +722,12 @@
       "projectUniqueName": "C:\\projetos\\cursoxamarin\\Secao08\\App2_Tarefa\\App2_Tarefa\\App2_Tarefa.iOS\\App2_Tarefa.iOS.csproj",
       "projectName": "App2_Tarefa.iOS",
       "projectPath": "C:\\projetos\\cursoxamarin\\Secao08\\App2_Tarefa\\App2_Tarefa\\App2_Tarefa.iOS\\App2_Tarefa.iOS.csproj",
-      "packagesPath": "C:\\Users\\saxiro\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Fabrício\\.nuget\\packages\\",
       "outputPath": "C:\\projetos\\cursoxamarin\\Secao08\\App2_Tarefa\\App2_Tarefa\\App2_Tarefa.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\saxiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fabrício\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
