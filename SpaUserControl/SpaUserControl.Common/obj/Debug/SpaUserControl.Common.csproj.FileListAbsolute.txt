@@ -1,0 +1,6 @@
+C:\projetos\SpaUserControl\SpaUserControl.Common\bin\Debug\SpaUserControl.Common.dll
+C:\projetos\SpaUserControl\SpaUserControl.Common\bin\Debug\SpaUserControl.Common.pdb
+C:\projetos\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.csprojAssemblyReference.cache
+C:\projetos\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.csproj.CoreCompileInputs.cache
+C:\projetos\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.dll
+C:\projetos\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.pdb
