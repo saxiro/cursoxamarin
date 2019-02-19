@@ -7,3 +7,12 @@ C:\projetos\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain
 C:\projetos\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Common.dll
 C:\projetos\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Common.pdb
 C:\projetos\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.csproj.CopyComplete
+C:\projetos\cursoxamarin\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Domain.dll
+C:\projetos\cursoxamarin\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Domain.pdb
+C:\projetos\cursoxamarin\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Common.dll
+C:\projetos\cursoxamarin\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Common.pdb
+C:\projetos\cursoxamarin\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.csprojAssemblyReference.cache
+C:\projetos\cursoxamarin\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\cursoxamarin\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.csproj.CopyComplete
+C:\projetos\cursoxamarin\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.dll
+C:\projetos\cursoxamarin\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.pdb
