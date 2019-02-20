@@ -12,3 +12,6 @@ C:\projetos\cursoxamarin\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netc
 C:\projetos\cursoxamarin\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.1\CursoOnline.DominioTest.AssemblyInfo.cs
 C:\projetos\cursoxamarin\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.1\CursoOnline.DominioTest.dll
 C:\projetos\cursoxamarin\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.1\CursoOnline.DominioTest.pdb
+C:\projetos\cursoxamarin\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp2.1\CursoOnline.Dominio.dll
+C:\projetos\cursoxamarin\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp2.1\CursoOnline.Dominio.pdb
+C:\projetos\cursoxamarin\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.1\CursoOnline.DominioTest.csproj.CopyComplete
