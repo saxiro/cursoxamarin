@@ -1,0 +1,13 @@
+C:\projetos\cursoxamarin\Caelum.Leilao\Caelum.Leilao.Test\obj\Debug\netcoreapp2.1\Caelum.Leilao.Test.csproj.CoreCompileInputs.cache
+C:\projetos\cursoxamarin\Caelum.Leilao\Caelum.Leilao.Test\obj\Debug\netcoreapp2.1\Caelum.Leilao.Test.AssemblyInfoInputs.cache
+C:\projetos\cursoxamarin\Caelum.Leilao\Caelum.Leilao.Test\obj\Debug\netcoreapp2.1\Caelum.Leilao.Test.AssemblyInfo.cs
+C:\projetos\cursoxamarin\Caelum.Leilao\Caelum.Leilao.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projetos\cursoxamarin\Caelum.Leilao\Caelum.Leilao.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projetos\cursoxamarin\Caelum.Leilao\Caelum.Leilao.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projetos\cursoxamarin\Caelum.Leilao\Caelum.Leilao.Test\bin\Debug\netcoreapp2.1\Caelum.Leilao.Test.deps.json
+C:\projetos\cursoxamarin\Caelum.Leilao\Caelum.Leilao.Test\bin\Debug\netcoreapp2.1\Caelum.Leilao.Test.runtimeconfig.json
+C:\projetos\cursoxamarin\Caelum.Leilao\Caelum.Leilao.Test\bin\Debug\netcoreapp2.1\Caelum.Leilao.Test.runtimeconfig.dev.json
+C:\projetos\cursoxamarin\Caelum.Leilao\Caelum.Leilao.Test\bin\Debug\netcoreapp2.1\Caelum.Leilao.Test.dll
+C:\projetos\cursoxamarin\Caelum.Leilao\Caelum.Leilao.Test\bin\Debug\netcoreapp2.1\Caelum.Leilao.Test.pdb
+C:\projetos\cursoxamarin\Caelum.Leilao\Caelum.Leilao.Test\obj\Debug\netcoreapp2.1\Caelum.Leilao.Test.dll
+C:\projetos\cursoxamarin\Caelum.Leilao\Caelum.Leilao.Test\obj\Debug\netcoreapp2.1\Caelum.Leilao.Test.pdb
